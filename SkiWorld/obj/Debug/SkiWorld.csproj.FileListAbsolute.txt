@@ -1,0 +1,33 @@
+c:\users\asus\documents\visual studio 2015\Projects\SkiWorld\SkiWorld\bin\Debug\SkiWorld.exe.config
+C:\Users\Asus\documents\visual studio 2015\Projects\SkiWorld\SkiWorld\bin\Debug\SkiWorld.exe
+C:\Users\Asus\documents\visual studio 2015\Projects\SkiWorld\SkiWorld\bin\Debug\SkiWorld.pdb
+C:\Users\Asus\documents\visual studio 2015\Projects\SkiWorld\SkiWorld\obj\Debug\SkiWorld.csprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2015\Projects\SkiWorld\SkiWorld\obj\Debug\SkiWorld.exe
+C:\Users\Asus\documents\visual studio 2015\Projects\SkiWorld\SkiWorld\obj\Debug\SkiWorld.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\SkiWorld\SkiWorld\bin\Debug\SkiWorld.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\SkiWorld\SkiWorld\obj\Debug\SkiWorld.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\SkiWorld\SkiWorld\obj\Debug\SkiWorld.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\SkiWorld\SkiWorld\bin\Debug\SkiWorld.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\SkiWorld\SkiWorld\bin\Debug\SkiWorld.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\ServicePattern.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.Data.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.Domain.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.Services.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\EntityFramework.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\MySql.Data.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\ServicePattern.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.Data.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.Domain.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\SkiWorld.Services.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\EntityFramework.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\obj\Debug\SkiWorld.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\obj\Debug\SkiWorld.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\Nouveau dossier\SkiWorld\SkiWorld\obj\Debug\SkiWorld.pdb
